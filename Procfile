@@ -1,1 +1,1 @@
-web: gunicorn painless_app:app
+web: gunicorn painless_app_py:painless_app --log-file -
