@@ -7,10 +7,10 @@ futures=3.0.3=py27_0
 #gunicorn=19.4.5=py27_0
 itsdangerous=0.24=py27_0
 jinja2=2.8=py27_0
-markupsafe=0.23=py27_1
+#markupsafe=0.23=py27_1
 numpy=1.11.0=py27_0
 python-dateutil=2.5.1=py27_0
-pyyaml=3.11=py27_3
+#pyyaml=3.11=py27_3
 requests=2.9.1=py27_0
 singledispatch=3.4.0.3=py27_0
 six=1.10.0=py27_0
