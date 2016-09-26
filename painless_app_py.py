@@ -1,6 +1,7 @@
 from bokeh.embed import components
 from bokeh.plotting import figure
-from flask import Flask, render_template, requests
+from flask import Flask, render_template
+import requests
 painless_app = Flask(__name__)
 #import requests
 	
