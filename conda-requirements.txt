@@ -1,10 +1,10 @@
 backports_abc=0.4=py27_0
 bokeh=0.12.2=py27_0
-certifi=2015.9.6.2=py27_0
+#certifi=2015.9.6.2=py27_0
 flask=0.10.1=py27_1
 flask-cors=2.1.2=py27_0
 futures=3.0.3=py27_0
-gunicorn=19.4.5=py27_0
+#gunicorn=19.4.5=py27_0
 itsdangerous=0.24=py27_0
 jinja2=2.8=py27_0
 markupsafe=0.23=py27_1
