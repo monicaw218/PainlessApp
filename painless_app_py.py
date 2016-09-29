@@ -15,7 +15,7 @@ def init_app():
 					
 	script, div = components(plot)
 	greeting = "Hey there, sexy"
-	return render_template('graph2.html', 
+	return render_template('graph.html', 
 							script=script, 
 							div=div, greeting=greeting)
 									
