@@ -1,10 +1,10 @@
 backports-abc==0.4
 bokeh==0.12.2
 certifi==2016.9.26
-Flask==0.10.1
+flask>=0.12.3
 Flask-Cors==2.1.2
 futures==3.0.5
-gunicorn==19.4.5
+gunicorn>=19.5.0
 itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
